@@ -18,6 +18,7 @@ Master Username: `BSGAdmin`
 Master Password: `Calamity`
 
 Email Database: https://ybf.blackshepherd.games/6mWVxrBhl7f5asIYRo6RvwcP5j/20210927_un_25a9JGR4vGtsZoJyCvFkQ2qixaeQsQxDCqT5RpuhHRC.txt
+
 Password: https://ybf.blackshepherd.games/6mWVxrBhl7f5asIYRo6RvwcP5j/20210927_37834AGSAYasOhixaX3O9zu1KUBPHi2pSFMSfGlWxUd7je.txt
 
 The password is `HelloDarling` as of 8th Oct 2021
